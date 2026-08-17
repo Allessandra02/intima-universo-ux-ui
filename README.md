@@ -48,8 +48,7 @@ Este é um projeto de design (sem código executável). Para explorar:
 
 - 📄 [Documentação completa (PDF)](./docs/Trabalho_Interface_Intima_Universo.pdf)
 - 🎨 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](
-https://www.figma.com/make/PCNzIIcBfoezaVRMbJcCLX/Advocate-Management
-System?t=f6puhchwFa48jdZ8-20&fullscreen=1)
+https://www.figma.com/make/PCNzIIcBfoezaVRMbJcCLX/Advocate-ManagementSystem?t=f6puhchwFa48jdZ8-20&fullscreen=1)
 
 ## 📚 Aprendizados do 1º Semestre
 
