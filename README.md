@@ -1,4 +1,4 @@
-# ⚖️ Íntima Universo — Projeto de UX/UI
+# ⚖️ Intima Universo — Projeto de UX/UI
 
 ![Status](https://img.shields.io/badge/status-conclu%C3%ADdo-brightgreen)
 ![Figma](https://img.shields.io/badge/Design-Figma-F24E1E?logo=figma&logoColor=white)
@@ -7,7 +7,7 @@
 
 ## 📌 Sobre o Projeto
 
-**Íntima Universo** é um projeto acadêmico de UX/UI Design desenvolvido para a disciplina de Interface/Prototipagem do curso de Análise e Desenvolvimento de Sistemas (Unicid). A proposta é uma plataforma de **gestão jurídica** voltada a advogados, com foco na captura automatizada de intimações e publicações expedidas pelos Diários de Justiça Eletrônicos (DJEs) em todo o território nacional.
+**Intima Universo** é um projeto acadêmico de UX/UI Design desenvolvido para a disciplina de Interface/Prototipagem do curso de Análise e Desenvolvimento de Sistemas (Unicid). A proposta é uma plataforma de **gestão jurídica** voltada a advogados, com foco na captura automatizada de intimações e publicações expedidas pelos Diários de Justiça Eletrônicos (DJEs) em todo o território nacional.
 
 O objetivo do sistema é reduzir o retrabalho manual dos operadores do direito, centralizando o acompanhamento processual, o cálculo de prazos e a gestão de documentos em um único painel.
 
