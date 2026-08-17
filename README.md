@@ -60,6 +60,8 @@ https://www.figma.com/make/PCNzIIcBfoezaVRMbJcCLX/Advocate-ManagementSystem?t=f6
 
 ---
 
-📫 **Contato:** 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allessandraguimaraes.silva@gmail.com)
+📫 **Contato: Alessandra Guimarães da Silva** 
+**Gmail**: allessandraguimaraes.silva@gmail.com
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/alessandra-guimarães-055851402)
+**Contato: Valquiria Rodrigues de Macedo** 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valquiria-macedo-83129646/)
