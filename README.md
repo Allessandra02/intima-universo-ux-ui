@@ -11,7 +11,7 @@
 
 O objetivo do sistema é reduzir o retrabalho manual dos operadores do direito, centralizando o acompanhamento processual, o cálculo de prazos e a gestão de documentos em um único painel.
 
-> 👩‍💻 Projeto desenvolvido em dupla por **Alessandra Guimarães da Silva** e **Valquiria Rodrigues de Macedo**.
+👩‍💻 Projeto desenvolvido em dupla por **Alessandra Guimarães da Silva** e **Valquiria Rodrigues de Macedo**.
 
 ## 🎯 Funcionalidades (Requisitos Funcionais)
 
