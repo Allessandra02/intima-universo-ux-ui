@@ -47,8 +47,8 @@ O projeto seguiu as seguintes etapas:
 Este é um projeto de design (sem código executável). Para explorar:
 
 - 📄 [Documentação completa (PDF)](./docs/Trabalho_Interface_Intima_Universo.pdf)
-- 🎨 [Protótipo interativo no Figma](https://www.figma.com/make/PCNzIIcBfoezaVRMbJcCLX/Advocate-Management-System)
-- 🖼️ Prints das telas disponíveis na pasta [`/assets`](./assets)
+- 🎨 [Protótipo interativo no Figma](https://www.figma.com/make/PCNzIIcBfoezaVRMbJcCLX/Advocate-Management
+System?t=f6puhchwFa48jdZ8-20&fullscreen=1)
 
 ## 📚 Aprendizados do 1º Semestre
 
@@ -60,4 +60,6 @@ Este é um projeto de design (sem código executável). Para explorar:
 
 ---
 
-📫 **Contato:** [seu LinkedIn ou e-mail aqui]
+📫 **Contato:** 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allessandraguimaraes.silva@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/alessandra-guimarães-055851402)
